@@ -141,6 +141,4 @@ Beberapa area yang dapat menjadi perhatian lebih lanjut meliputi:
 
 Dokumentasi lengkap mengenai Data Preparation, Variable Analysis, Relationship Analysis, Dashboard Analysis, serta Conclusion & Business Recommendations tersedia pada:
 
-#Documentation
-
-[Documentation.pdf].(./documentation/Documentation.pdf)
+[View Documentation](documentation.pdf)
